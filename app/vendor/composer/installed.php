@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'garyclarke/translatethis',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '9bda59021c079f56a37278f62817228680524839',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => true,
         ),
         'garyclarke/translatethis' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '9bda59021c079f56a37278f62817228680524839',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
